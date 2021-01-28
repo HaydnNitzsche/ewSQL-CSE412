@@ -1,2 +1,2 @@
-# ewSQL-CSE412
-ewSQL group prject for CSE412
+# CSE412 Group Project
+ewSQL group project for CSE412
